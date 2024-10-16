@@ -1,0 +1,14 @@
+Using the below link:
+https://www.mathworks.com/matlabcentral/fileexchange/172865-applying-foc-techniques-to-control-pmsm-with-pwm?s_tid=srchtitle
+
+The simulation is studying in MATLAB in FOC_PMSM_Developing file.
+
+The steps:
++ 1) Clarke-Park Transformation
+2) Controller Design
+3) Inverse Park-Clarke Transformation
+4) PWM Design
+5) Inverter Design
+6) Adding Scopes
+
+
